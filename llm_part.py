@@ -1,7 +1,7 @@
 from gigachat import GigaChat
 
 
-TOKEN = "NzNkZGVjYmItOGJmNS00ZGQ1LWIzM2YtYTM1NTI3ODdkMDIyOmU0OGVmOWFjLTI5Y2UtNDE3Zi1hMTE1LTAwY2I0NzFmMDk5MQ=="
+TOKEN = ""
 
 def connect_gigachat():
     model = GigaChat(
